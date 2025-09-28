@@ -9,7 +9,7 @@
 
 👀 I’m interested in developing **backend** programming skills.
 
-🌱 I’m currently learning <img src="https://www.jqueryscript.net/images/collective/functionality.js.gif" width="35px" align="center"> to enhance my programming capabilities.
+🌱 I’m currently learning <img src="https://www.jqueryscript.net/images/collective/functionality.js.gif" width="35px" align="center"> <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" width="35px" align="center" alt="City Png - @citypng.com"> to enhance my programming capabilities.
 
 💞️ I’m happily married to my **lovely wife**, who is also passionate about programming.
 
@@ -38,7 +38,7 @@ I'm getting ready to create some repositories soon. I'm looking forward to finis
 
 👀 Tenho interesse em desenvolver habilidades de programação **backend**.
 
-🌱 Atualmente, estou aprendendo <img src="https://www.jqueryscript.net/images/collective/functionality.js.gif" width="35px" align="center"> para aprimorar minhas habilidades de programação.
+🌱 Atualmente, estou aprendendo <img src="https://www.jqueryscript.net/images/collective/functionality.js.gif" width="35px" align="center"> <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" width="35px" align="center" alt="City Png - @citypng.com"> para aprimorar minhas habilidades de programação.
 
 💞️ Sou casado felizmente com minha **adorável esposa**, que também é apaixonada por programação.
 
